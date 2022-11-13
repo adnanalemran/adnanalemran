@@ -1,5 +1,5 @@
 
-![Front-end Developer Ui/UX Designer,]([https://pbs.twimg.com/profile_banners/940302517170139136/1668346612/600x200](https://adnanalemran.github.io/cv/img/banner.png))
+![Front-end Developer Ui/UX Designer,](https://adnanalemran.github.io/cv/img/banner.png))
 ###  I'm Adnan
 #### Front-end Developer Ui/UX Designer,
 I made this project, HTML, CSS, WordPress Development, Elementor page builder Solution, SEO, e-commerce solution, web designing, whmcs solution, Web Hosting Solution, Linux Server solutions, Web hosting Support, Technical Support or any issue in the IT Industry message me and discuss that.
