@@ -1,5 +1,5 @@
 #### Front-end Developer Ui/UX Designer
-![Front-end Developer Ui/UX Designer](https://adnanalemran.github.io/cv/img/banner.png)
+![Front-end Developer Ui/UX Designer](https://camo.githubusercontent.com/695b8db0d524e01d518420f1be0ad7de72ce5af8c7fd0ae83db90d939bf221a3/68747470733a2f2f61646e616e616c656d72616e2e6769746875622e696f2f63762f696d672f62616e6e65722e706e67)
 
 I made this project, HTML, CSS, JS, PHP, JAVA, WordPress Development, and Elementor page builder Solution.
 
