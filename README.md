@@ -1,7 +1,6 @@
 ### <div align="center">I'm Adnan, a full-time full-stack web developer </div>  
   <meta name="google-site-verification" content="n_a2eM-LWvYSiMIz2reHa_UCnYrTgbcN3guap6Cm3Ao" />
-
--  ✒️I made this project, HTML, CSS, JS, PHP, JAVA, WordPress Development, and Elementor page builder Solution.  
+I am Adnan Al Emran, a dedicated learner and aspiring computer scientist. I'm thrilled to connect with all of you, learn from your experiences, and explore the exciting world of technology together. Thank you for your attention!
   
 
 <br/>  
