@@ -1,4 +1,4 @@
-### <div align="center">I'm Adnan, a full-time web developer </div>  
+### <div align="center">I'm Adnan, a   web developer </div>  
   <meta name="google-site-verification" content="n_a2eM-LWvYSiMIz2reHa_UCnYrTgbcN3guap6Cm3Ao" />
 I am Adnan Al Emran, a dedicated learner and aspiring computer scientist. I'm thrilled to connect with all of you, learn from your experiences, and explore the exciting world of technology together. Thank you for your attention!
   
