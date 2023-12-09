@@ -1,4 +1,4 @@
-## <div align="center">I'm Adnan, a web developer </div>
+ 
 
 <img src="image/cover.svg">
 <br/>
