@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Adnan</h1>  
-<h2 align="center">I'm Adnan, a web developer</h2> 
+<h2 align="center">I'm Adnan, a MERN stack web developer</h2> 
 <br>
 </br>
 <p align="center">
