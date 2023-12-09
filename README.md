@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Adnan</h1>  
 <h2 align="center">I'm Adnan, a web developer</h2> 
-
+<br>
 </br>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adnanalemran&theme=tokyonight&border_radius=12.8&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
@@ -21,6 +21,8 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 <br>
 📫 Reach me at **adnanalemran@htmail.com**
 </p>
+
+<br><br>
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 <br/>  
@@ -36,9 +38,12 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 
 <br>
 
-
+<div  width="100%" >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanalemran&theme=2077)
+<div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanalemran&theme=2077)
-
+<div  width="50%" >![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanalemran&theme=2077)
+</div>
+<div  width="50%" >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnanalemran&theme=2077&utcOffset=8)
+</div>
