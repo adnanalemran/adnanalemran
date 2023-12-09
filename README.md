@@ -10,7 +10,7 @@
 <br>
 </br>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adnanalemran&theme=tokyonight&border_radius=12.8&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=adnanalemran&theme=tokyonight&border_radius=12.8&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 </br>
 
