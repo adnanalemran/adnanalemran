@@ -22,10 +22,13 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 📫 Reach me at **adnanalemran@htmail.com**
 </p>
 
-<br><br>
+<br> 
+<br> 
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 <br/>  
+<br/>  
+
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,tailwind,css,html,git,c" />
@@ -33,17 +36,14 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 </p>
 
 
-
+<br/>  
+<br/>  
 <h2> My GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif' width="40px" height="40px"> </h2>
 
 <br>
 
-<div  width="100%" >
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanalemran&theme=2077)
-<div>
+ 
 
-<div  width="50%" >![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanalemran&theme=2077)
-</div>
-<div  width="50%" >
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnanalemran&theme=2077&utcOffset=8)
-</div>
+ 
