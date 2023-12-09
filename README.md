@@ -20,7 +20,7 @@
 I specialize in MERN stack development, crafting robust and efficient web solutions. My work involves building dynamic applications with a focus on MongoDB, Express.js, React, and Node.js, ensuring seamless user experiences.
 <br>
 
-📫 Reach me at **adnanalemran@htmail.com**
+📫 Reach me at **adnanalemran@hotmail.com**
 </p>
 
 <br> 
