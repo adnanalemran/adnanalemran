@@ -14,14 +14,14 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 <br/>  
 <br>
 
-<h2> Languages and Tools</h2> 
+## Languages and Tools</h2> 
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,nodejs,express,firebase,redux,tailwind,materialui,css,html,github,js,php,java,c,ai" />
   </a>
 
 
-## GitHub Stats:
+## GitHub Stats
 
 <div align="center">
 
