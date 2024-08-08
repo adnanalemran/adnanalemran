@@ -25,12 +25,6 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
  
 </div>
 
-<div align="center" width="400" height="200" margin-top="30">
-
- 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanalemran&theme=github_dark)
-
- </div> 
 
 
 
