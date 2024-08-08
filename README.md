@@ -20,31 +20,8 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
     <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,nodejs,express,firebase,redux,tailwind,materialui,css,html,github,js,php,java,c,ai" />
   </a>
 
-
-
- 
 </div>
 
 
 
-
- 
-
- 
-
- ### Let's Connect  
- <div align="center" width="400" height="200" margin-top="30">
- 
-[![LinkedIn](https://img.shields.io/badge/-Adnan%20al%20Emran-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanalemran/)
-[![Twitter](https://img.shields.io/badge/-Adnan%20al%20Emran-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/adnanalemran/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logoColor=white)](https://adnanal-emran.web.app/)
-
- </div> 
-
-
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
  
