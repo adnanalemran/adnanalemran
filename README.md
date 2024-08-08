@@ -21,12 +21,7 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
   </a>
 
 
-## GitHub Stats
 
-<div align="center">
-
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnanalemran&theme=youtube-dark)](https://git.io/streak-stats)
  
 </div>
 
