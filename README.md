@@ -9,7 +9,13 @@
 I specialize in MERN stack development, crafting robust and efficient web solutions. My work involves building dynamic applications focusing on MongoDB, Express.js, React, and Node.js, ensuring seamless user experiences.
 <br>
 
-📫 Reach me at **adnanalemranontor@gmail.com**
+## How to reach me:
+- Facebook: https://www.facebook.com/adnan.fb
+- Blog: https://dev.to/adnanalemran
+- Twitter: https://x.com/AdnanAlEmran
+- GitHub: https://github.com/adnanalemran
+- LinkedIn:  https://www.linkedin.com/in/adnanalemran/
+- Email: adnanalemranontor@gmail.com
 
 
 
