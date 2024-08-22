@@ -20,9 +20,9 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 
 ## My CV/Resume:
 
-You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
+You can see and download the PDF copy of my latest resume  
 
-- [Google Drive]([https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing](https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view?usp=sharing))
+  [Google Drive]([https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing](https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view?usp=sharing))
  
 
 
