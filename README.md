@@ -10,15 +10,9 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 <br>
 
 📫 Reach me at **adnanalemranontor@gmail.com**
-</p>
-<br/>  
-<br>
 
-## Languages and Tools</h2> 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,nodejs,express,firebase,redux,tailwind,materialui,css,html,github,js,php,java,c,ai" />
-  </a>
+
+
 
 </div>
 
