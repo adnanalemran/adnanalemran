@@ -22,7 +22,7 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 
 You can see and download the PDF copy of my latest resume  
 
-  [Google Drive]([https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing](https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view?usp=sharing))
+ https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing](https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view?usp=sharing 
  
 
 
