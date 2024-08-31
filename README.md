@@ -19,11 +19,5 @@ I specialize in MERN stack development, crafting robust and efficient web soluti
 
 
 ## My CV/Resume:
-
-You can see and download the PDF copy of my latest resume  
- https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view?usp=sharing)](https://drive.google.com/file/d/1yeR_lIaqcndkZ9Cas8Bkj8Tn9Og7lR41/view
-</div>
-
-
-
+https://adnanalemran.vercel.app
  
