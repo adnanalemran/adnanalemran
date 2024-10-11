@@ -8,7 +8,7 @@
 <p  width="45%"   >
 I am a Full Stack Developer with expertise in both the MERN stack and Laravel, and a strong command of MySQL. I specialize in building scalable, high-performance web applications, utilizing MongoDB, Express.js, React, and Node.js to create dynamic and responsive frontends. On the backend, I leverage Laravel and MySQL to develop robust, secure, and efficient systems, ensuring seamless data management and complex relational queries. My focus is on delivering end-to-end solutions that prioritize performance, user experience, and maintainability, providing a solid foundation for long-term success. 
 <br>
-
+---
 ## How to reach me:
 - Facebook: https://www.facebook.com/adnan.fb
 - Blog: https://dev.to/adnanalemran
