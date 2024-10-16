@@ -25,6 +25,6 @@ https://adnanalemran.vercel.app
 
 <p align="center">
   <a >
-    <img src="https://api.githubtrends.io/user/svg/adnanalemran/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
+  [  <img src="https://api.githubtrends.io/user/svg/adnanalemran/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />](https://api.githubtrends.io/user/svg/adnanalemran/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
   </a>
 </p>
