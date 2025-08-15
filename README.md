@@ -24,7 +24,7 @@
 
 ### � Professional Profile
 
-**Senior Full Stack Developer** with **5+ years** of proven expertise in designing and implementing enterprise-grade web applications. I specialize in end-to-end development using modern technology stacks including **MERN**, **Laravel**, and **Microsoft .NET ecosystems**.
+**Senior Full Stack Developer** with **3+ years** of proven expertise in designing and implementing enterprise-grade web applications. I specialize in end-to-end development using modern technology stacks including **MERN**, **Laravel**, and **Microsoft .NET ecosystems**.
 
 ### 🎯 Core Competencies
 
@@ -61,7 +61,7 @@ interface DeveloperProfile {
   name: "Adnan Al-Emran";
   role: "Senior Full Stack Developer";
   location: "Dhaka, Bangladesh 🇧🇩";
-  experience: "5+ Years";
+  experience: "3+ Years";
   
   specializations: {
     frontend: [
