@@ -36,14 +36,6 @@ Senior Full Stack Developer with 3+ years of experience building scalable web ap
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanalemran&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalemran&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Connect
 
 - **Portfolio:** [adnanalemran.vercel.app](https://adnanalemran.vercel.app)
