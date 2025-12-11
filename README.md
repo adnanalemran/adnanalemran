@@ -15,41 +15,16 @@ Senior Full Stack Developer with 3+ years of experience building scalable web ap
 ## Tech Stack
 
 **Frontend**
-- React.js, Next.js, TypeScript
-- Vue.js, Blazor
-- Tailwind CSS, Material UI, Bootstrap, Sass
-- Redux, Zustand, React Query
-- Vite, Webpack
-- Jest, React Testing Library
+React.js, Next.js, TypeScript, Vue.js, Blazor, Tailwind CSS, Material UI
 
 **Backend**
-- Node.js, Express.js
-- Laravel, PHP
-- ASP.NET Core, .NET
-- Python, Django
-- RESTful APIs, GraphQL
-- JWT, OAuth, Passport.js
+Node.js, Express.js, Laravel, ASP.NET Core, Python, Django, GraphQL
 
 **Databases**
-- SQL Server, MySQL, PostgreSQL
-- MongoDB, Redis
-- Entity Framework, Eloquent ORM
-- Prisma, Mongoose
+SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 
 **Cloud & DevOps**
-- AWS (EC2, S3, Lambda, RDS)
-- Azure (App Service, Functions, SQL Database)
-- Docker, Kubernetes
-- CI/CD (GitHub Actions, GitLab CI, Jenkins)
-- Nginx, Apache
-- Vercel, Netlify
-
-**Tools & Others**
-- Git, GitHub, GitLab
-- Postman, Insomnia
-- VS Code, Visual Studio
-- Figma, Adobe XD
-- Jira, Trello
+AWS, Azure, Docker, CI/CD, GitHub Actions
 
 ---
 
