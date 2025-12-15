@@ -6,7 +6,7 @@
 
 ## About
 
-Senior Full Stack Developer with 3+ years of experience building scalable web applications. Specialized in end-to-end development using modern technology stacks.
+Full Stack Developer with 3+ years of experience building scalable web applications. Specialized in end-to-end development using modern technology stacks.
 
 **Location:** Dhaka, Bangladesh
 
